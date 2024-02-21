@@ -13,9 +13,7 @@ const HeroSection = ({ myData }) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              atque temporibus veniam doloribus libero ad error omnis voluptates
-              animi! Suscipit sapiente.
+             homepage, like many fashion ecommerce stores, promotes their latest looks and specific product categories, keeping it highly visual. They also include personalized modules based on your browsing behavior.
             </p>
             <NavLink>
               <Button>Shop Now</Button>
