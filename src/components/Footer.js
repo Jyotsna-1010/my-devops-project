@@ -12,12 +12,12 @@ const Footer = () => {
           <div className="grid grid-two-column">
             <div>
               <h3>Ready to get started?</h3>
-              <h3>Talk to us today</h3>
+              <h3>Talk to us today !</h3>
             </div>
 
             <div>
               <Button className="btn hireme-btn">
-                <NavLink to="/"> Get Started </NavLink>
+                <NavLink to="/"> Get Started.. </NavLink>
               </Button>
             </div>
           </div>
@@ -27,7 +27,7 @@ const Footer = () => {
         <footer>
           <div className="container grid grid-four-column">
             <div className="footer-about">
-              <h3>Thapa Technical</h3>
+              <h3>ShopSphere Tech/h3>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
             </div>
             <div className="footer-subscribe">
@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
             <div className="footer-contact">
               <h3>Call Us</h3>
-              <h3>+91 123456565768</h3>
+              <h3>+91 6380313196</h3>
             </div>
           </div>
 
@@ -66,11 +66,11 @@ const Footer = () => {
             <hr />
             <div className="container grid grid-two-column ">
               <p>
-                @{new Date().getFullYear()} Sushanta. All Rights Reserved
+                @{new Date().getFullYear()} Jyotsna. All Rights Reserved
               </p>
               <div>
                 <p>PRIVACY POLICY</p>
-                <p>TERMS & CONDITIONS</p>
+                <p>TERMS & CONDITIONSS</p>
               </div>
             </div>
           </div>
