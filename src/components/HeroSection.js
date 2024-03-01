@@ -13,7 +13,7 @@ const HeroSection = ({ myData }) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-             homepage, like many fashion ecommerce stores, promotes their latest looks and specific product categories, keeping it highly visual. They also include personalized modules based on your browsing behavior.
+             Discover a world of style and convenience right at your fingertips. At ShopSphere, we curate the latest trends and timeless classics to bring you an unparalleled shopping experience
             </p>
             <NavLink>
               <Button>Shop Now</Button>
