@@ -11,9 +11,9 @@ const About = () => {
           <div className="about-data">
             <p className="intro-data"><b>MISSION</b></p>
             <h1> {name} </h1>
-    </div>
-    </div>
-    </div>
+          </div>
+        </div>
+      </div>
     </wrapper>
   );
 };
