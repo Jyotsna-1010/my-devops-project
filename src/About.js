@@ -16,7 +16,7 @@ const About = () => {
     </div>
     </wrapper>
   );
-}
+};
 
   const data = {
     name: "Our mission is to empower both customers and sellers by providing a seamless and enjoyable shopping experience. We strive to curate a diverse selection of [products] while maintaining the highest standards of quality and customer service.
