@@ -80,7 +80,7 @@ const Wrapper = styled.section`
     }
   }
   .img-style {
-    width: 100%;
+ width: 100%;
     height: auto;
   }
 
@@ -101,4 +101,4 @@ const Wrapper = styled.section`
   }
 `;
 
-export default HeroSection;
+export default HeroSection;
