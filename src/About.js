@@ -5,7 +5,7 @@ const About = () => {
   const { myName } = useProductContext();
 
   const data = {
-    name: "Discover a world of style and convenience right at your fingertips. At ShopSphere, we curate the latest trends and timeless classics to bring you an unparalleled shopping experience",
+    name: "Sample E-Commerce",
   };
 
   return (
