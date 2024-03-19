@@ -13,9 +13,7 @@ const HeroSection = ({ myData }) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              atque temporibus veniam doloribus libero ad error omnis voluptates
-              animi! Suscipit sapiente.
+              Discover A World Of Style And Convenience Right At Your Fingertips. At ShopSphere, We Curate The Latest Trends And Timeless Classics To Bring You An Unparalleled Shopping Experience.
             </p>
             <NavLink>
               <Button>Shop Now</Button>
