@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="grid grid-two-column">
             <div>
               <h3>Ready to get started?</h3>
-              <h3>Talk to us today !</h3>
+              <h3>Talk to today !</h3>
             </div>
 
             <div>
@@ -31,7 +31,7 @@ const Footer = () => {
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
             </div>
             <div className="footer-subscribe">
-              <h3>Subscribe to get important updates</h3>
+              <h3>Subscribe to get more important updates</h3>
               <form action="#">
                 <input type="email" name="email" placeholder="YOUR E-MAIL" />
 
@@ -57,7 +57,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="footer-contact">
-              <h3>Call Us</h3>
+              <h3>Call Uss</h3>
               <h3>+91 7358835990</h3>
             </div>
           </div>
